@@ -386,9 +386,9 @@ Also note that HTML and CSS are examples of "markup languages", not "programming
 
 - Books and tutorials (online):
     - [The Concise TypeScript Book][typescript-concise]
-      Un libro TypeScript gratuito e open source, dai fondamenti ai concetti avanzati.
+      A free and open-source TypeScript book, from the fundamentals to advanced concepts.
 
-  [typescript-concise]: https://gibbok.github.io/typescript-book/it-it/
+  [typescript-concise]: https://gibbok.github.io/typescript-book/
     
 ### Lisp (Scheme, Common Lisp, Clojure, etc)
 
